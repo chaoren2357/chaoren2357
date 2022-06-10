@@ -1,6 +1,22 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaoren2357&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaoren2357&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaoren2357&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaoren2357&layout=compact" />
+</a>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **chaoren2357/chaoren2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
