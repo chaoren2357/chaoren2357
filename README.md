@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 
-I am Scott, undergrad at Tongji University
-
-Will be joining the University of Southern California as a MSCS student starting Spring-2023.
+I am Scott, a graduate student at University of Southern California.
 
 Research interest:
 
 - Computer Graphics
 - Physics Simulation
-- and so on
+- Deep learning
 
 Reach me at scott.zhiyuan.gao@gmail.com
 
