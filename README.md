@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 
-I am Scott, a graduate student at University of Southern California.
+I am Scott Gao, a CS graduate student at USC.
 
-Research interest:
+- ✨ My research interests are
+  - Computer Graphics
+  - Physics Simulation
+  - Deep learning
+- 🌱 I’m currently learning computer graphics and physics simulation.
+- 👯 I’m looking to collaborate on reseach projects, e.g. differentiable physics.
+- 📫 How to reach me: scott.zhiyuan.gao@gmail.com
 
-- Computer Graphics
-- Physics Simulation
-- Deep learning
-
-Reach me at scott.zhiyuan.gao@gmail.com
 
 [![chaoren2357's github stats](https://github-readme-stats.vercel.app/api?username=chaoren2357&count_private=true&show_icons=true)](https://github.com/chaoren2357/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaoren2357&hide_title=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
