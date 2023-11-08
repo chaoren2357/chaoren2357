@@ -5,10 +5,10 @@ I am Scott Gao, a CS graduate student at USC.
 
 - ✨ My research interests are
   - Computer Graphics
-  - Physics Simulation
   - Deep learning
-- 🌱 I’m currently learning computer graphics and physics simulation.
-- 👯 I’m looking to collaborate on reseach projects, e.g. differentiable physics.
+
+- 🌱 I’m currently focusing on neural representation and application in urban scene.
+- 👯 I’m looking to collaborate on reseach projects.
 - 📫 How to reach me: scott.zhiyuan.gao@gmail.com
 
 
