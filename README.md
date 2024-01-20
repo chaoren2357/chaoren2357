@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 
-I am Scott Gao, a CS graduate student at USC.
+I am Scott Zhiyuan Gao, a CS graduate student at USC.
 
 - ✨ My research interests are
   - Computer Graphics
-  - Deep learning
+  - 3D Computer Vision
+  - Physics-based Scene Understanding and Simulation
 
 - 🌱 I’m currently focusing on neural representation and application in urban scene.
 - 👯 I’m looking to collaborate on reseach projects.
-- 📫 How to reach me: scott.zhiyuan.gao@gmail.com
+- 📫 How to reach me: gaozhiyu@usc.edu
 
 
 [![chaoren2357's github stats](https://github-readme-stats.vercel.app/api?username=chaoren2357&count_private=true&show_icons=true)](https://github.com/chaoren2357/)
