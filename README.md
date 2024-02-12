@@ -8,7 +8,7 @@ I am Scott Zhiyuan Gao, a CS graduate student at USC.
   - 3D Computer Vision
   - Physics-based Scene Understanding and Simulation
 
-- 🌱 I’m currently focusing on neural representation and application in urban scene.
+- 🌱 I’m currently focusing on physics-based scene understanding and simulation.
 - 👯 I’m looking to collaborate on reseach projects.
 - 📫 How to reach me: gaozhiyu@usc.edu
 
